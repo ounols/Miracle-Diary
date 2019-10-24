@@ -14,17 +14,17 @@ Android Version : at least Android API Level 26 (Oreo)
 <img src="/readmeImg/메인화면1.png" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 <img src="/readmeImg/습관.PNG" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 
-첫 번째 탭을 눌러서 길들일 습관을 입력합니다.
+첫 번째 탭을 눌러서 중요한 일 혹은 반복할 일(길들일 습관)을 입력합니다.
 
 <img src="/readmeImg/메인화면2.png" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 <img src="/readmeImg/일기장.PNG" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 
-두 번째 탭을 눌러 오늘 할 일을 입력합니다.
+두 번째 탭을 눌러 일기를 작성합니다. (일기 작성 전, 과거 일기를 상기시켜줍니다.)
 
 <img src="/readmeImg/메인화면3.png" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 <img src="/readmeImg/알람.PNG" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 
-세 번째 탭을 눌러 알람을 설정합니다. 오늘 습관을 길들였는지, 할 일을 했는지 확인하기 위함입니다
+세 번째 탭을 눌러 알람을 설정합니다. 오늘 일기 작성, 중요한 일, 반복할 일을 주기적으로 체크할 알람을 설정해줍니다.
 
 <img src="/readmeImg/메인화면4.png" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
 <img src="/readmeImg/캘린더.PNG" width="209px" height="437px" title="px(픽셀) 크기 설정" alt="a"></img>
